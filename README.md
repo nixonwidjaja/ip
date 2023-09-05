@@ -1,18 +1,32 @@
-## Getting Started
+# AdaBot
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+> "Adapt. Improvise. Overcome." - Tom Cruise
 
-## Folder Structure
+AdaBot frees your mind of having to remember things you need to do. It's,
 
-The workspace contains two folders by default, where:
+- text-based
+- easy to learn
+- ~~FAST~~ SUPER FAST to use
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+All you need to do is,
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+1. Add your tasks
+2. Let it manage your tasks for you 😉
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+And it is **FREE!**
 
-## Dependency Management
+Features:
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- [x] Managing tasks
+- [x] Managing deadline
+- [ ] Reminders (coming soon)
+
+##
+
+If you Java programmer, you can use it to practice Java too. Here's the `main` method in `Duke.java`:
+
+```java
+ public static void main(String[] args) {
+     new Duke().run();
+ }
+```
